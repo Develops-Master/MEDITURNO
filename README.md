@@ -400,3 +400,18 @@ MediTurno/
 ├── docker-compose.yml
 ├── .env
 └── README.md
+
+
+✅ RESUMEN DE NUEVAS FUNCIONALIDADES IMPLEMENTADAS
+Módulo	Funcionalidades	Tecnología
+Pasarela de Pagos	Culqi, Yape, PLIN	API Culqi, QR
+Facturación Electrónica	Boletas/Facturas SUNAT	API SUNAT, PDF, XML
+WhatsApp Business	Recordatorios, promociones, confirmaciones	Meta WhatsApp API
+Telemedicina	Videoconsultas, salas virtuales	Daily/Whereby API
+Marketing Automation	Campañas, cumpleaños, fidelización	Email, WhatsApp, SMS
+Recetas Electrónicas	QR, envío a farmacia, firma digital	PDF, QRCoder
+Inventario/Farmacia	Stock, caducidades, compras	ADO.NET
+Laboratorio	Órdenes de exámenes, resultados	Sistema integrado
+Hospitalización	Camas, quirófanos, cirugías	Gestión completa
+Dashboard IA	Predicción de ausencias	ML.NET
+Reportes Avanzados	Financieros, productividad, tendencias	Chart.js, Excel
